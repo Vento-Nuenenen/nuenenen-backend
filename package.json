@@ -14,7 +14,7 @@
     "@strapi/plugin-i18n": "4.3.6",
     "@strapi/plugin-users-permissions": "4.3.6",
     "@strapi/strapi": "4.3.6",
-    "better-sqlite3": "7.6.2",
+    "better-sqlite3": "8.0.1",
     "strapi-plugin-react-editorjs": "^2.0.1"
   },
   "author": {
