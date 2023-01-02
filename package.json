@@ -12,7 +12,7 @@
   "dependencies": {
     "@strapi/plugin-graphql": "4.3.6",
     "@strapi/plugin-i18n": "4.3.6",
-    "@strapi/plugin-users-permissions": "4.3.6",
+    "@strapi/plugin-users-permissions": "4.5.5",
     "@strapi/strapi": "4.3.6",
     "better-sqlite3": "7.6.2",
     "strapi-plugin-react-editorjs": "^2.0.1"
